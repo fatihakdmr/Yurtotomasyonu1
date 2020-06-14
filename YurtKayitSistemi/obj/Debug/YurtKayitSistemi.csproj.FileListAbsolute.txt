@@ -1,0 +1,250 @@
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmÖdemeler.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGider.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirİstatistik.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYöneticiDüzenle.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.ResolveComReference.cache
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmNotEkle.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrenciRapor.resources
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\RdlCompile.cache
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\RdlCompile.compiled
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CopyComplete
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\FlashControlV71.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\stdole.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+C:\Users\Fatih\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.ResolveComReference.cache
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\FlashControlV71.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\stdole.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmNotEkle.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYöneticiDüzenle.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirİstatistik.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGider.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmÖdemeler.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Yeni klasör\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CopyComplete
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\FlashControlV71.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\stdole.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.ResolveComReference.cache
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmNotEkle.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYöneticiDüzenle.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirİstatistik.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGider.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmÖdemeler.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CopyComplete
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\Fatih\Desktop\Fatih_Akdemir_15541066\Fatih_Akdemir_15541066\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\FlashControlV71.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\stdole.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.ResolveComReference.cache
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmNotEkle.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYöneticiDüzenle.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirİstatistik.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGider.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmÖdemeler.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CopyComplete
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\Fatih\Desktop\Proje Kodları\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
